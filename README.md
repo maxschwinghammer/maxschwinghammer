@@ -2,7 +2,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=maxschwinghammer&style=flat-square&color=blue" alt=""/>
 
-- 🔭 I’m currently working on [Gym Finder](https://github.com/dhbw-ka-pm/tinf22b6-gym-finder)
 - 🌱 I’m currently learning Java programming
 - 📫 How to reach me: maxschwinghammer@outlook.com
 </a>
