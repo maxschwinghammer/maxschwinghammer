@@ -2,7 +2,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=maxschwinghammer&style=flat-square&color=blue" alt=""/>
 
-- 🌱 I’m currently learning Java programming
+- 🌍 Karlsruhe, Germany
+- 🧠 I’m currently learning Java programming
 - 📫 How to reach me: maxschwinghammer@outlook.com
 </a>
 
