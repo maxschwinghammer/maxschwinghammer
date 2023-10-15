@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=maxschwinghammer&style=flat-square&color=blue" alt=""/>
 
-- 🌍 Karlsruhe, Germany
+- 🌍 Living in Karlsruhe, Germany
 - 👨‍💻 I’m currently working on [DHBWhub](https://github.com/SE-TINF22B6/DHBWhub)
 - 🧠 I’m currently learning Java programming
 - 📫 How to reach me: maxschwinghammer@outlook.com or [LinkedIn](https://www.linkedin.com/in/max-schwinghammer-135371250/)
