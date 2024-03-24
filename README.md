@@ -21,10 +21,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongo DB" **alt="Mongo DB" width="40" height="40"/>
 </div>
 
-### 📊 Stats
-
-[![Max GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=maxschwinghammer&include_all_commits=true&custom_title=Max'%20Github%20Stats&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/maxschwinghammer#gh-dark-mode-only)
-[![Max GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=maxschwinghammer&include_all_commits=true&custom_title=Max'%20Github%20Stats&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/maxschwinghammer#gh-light-mode-only)
+### 📊 Stats:
+[![Max GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=maxschwinghammer&show_icons=true&locale=en&theme=dark#gh-dark-mode-only)](https://github.com/maxschwinghammer#gh-dark-mode-only)
+[![Max GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=maxschwinghammer&show_icons=true&locale=en#gh-light-mode-only)](https://github.com/maxschwinghammer#gh-light-mode-only)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxschwinghammer&theme=dark" alt="maxschwinghammer" /></p>
 
 [![Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=maxschwinghammer&theme=dark&layout=compact#gh-dark-mode-only)](https://github.com/maxschwinghammer#gh-dark-mode-only)
 [![Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=maxschwinghammer&theme=default&layout=compact#gh-light-mode-only)](https://github.com/maxschwinghammer#gh-light-mode-only)
+
+### Connect with me:
+<p align="left">
+<a href="https://twitter.com/max_schwingh" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="max_schwingh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/max-schwinghammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="max-schwinghammer" height="30" width="40" /></a>
+<a href="https://instagram.com/max.swh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="max.swh" height="30" width="40" /></a>
+</p>
