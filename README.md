@@ -32,14 +32,7 @@
 
 ### Connect with me:
 <p align="left">
-  <a href="https://twitter.com/max_schwingh" target="blank">
-      <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="max_schwingh" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/max-schwinghammer" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="max-schwinghammer" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/max.swh" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="max.swh" height="30" width="40" />
-  </a>
-  </div>
+<a href="https://twitter.com/max_schwingh" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="max_schwingh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/max-schwinghammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="max-schwinghammer" height="30" width="40" /></a>
+<a href="https://instagram.com/max.swh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="max.swh" height="30" width="40" /></a>
 </p>
