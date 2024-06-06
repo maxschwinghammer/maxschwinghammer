@@ -31,7 +31,7 @@
 [![Max GitHub Streak Stats - Light](https://github-readme-streak-stats.herokuapp.com/?user=maxschwinghammer&background=ffffff00&hide_border=true#gh-light-mode-only)](https://github.com/maxschwinghammer#gh-light-mode-only)
 
 ### Connect with me:
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/max_schwingh" target="blank">
       <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="max_schwingh" height="30" width="40" />
   </a>
