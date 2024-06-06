@@ -22,14 +22,14 @@
 </div>
 
 ### 📊 Stats:
-[![Max GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=maxschwinghammer&hide_border=true&show_icons=true&locale=en&theme=dark#gh-dark-mode-only)](https://github.com/maxschwinghammer#gh-dark-mode-only)
-[![Max GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=maxschwinghammer&hide_border=true&show_icons=true&locale=en#gh-light-mode-only)](https://github.com/maxschwinghammer#gh-light-mode-only)
+[![Max GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=maxschwinghammer&bg_color=ffffff00&hide_border=true&show_icons=true&locale=en&theme=dark#gh-dark-mode-only)](https://github.com/maxschwinghammer#gh-dark-mode-only)
+[![Max GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=maxschwinghammer&bg_color=ffffff00&hide_border=true&show_icons=true&locale=en#gh-light-mode-only)](https://github.com/maxschwinghammer#gh-light-mode-only)
 
-[![Max GitHub stats-Dark](https://github-readme-streak-stats.herokuapp.com/?user=maxschwinghammer&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/maxschwinghammer#gh-dark-mode-only)
-[![Max GitHub stats-Light](https://github-readme-streak-stats.herokuapp.com/?user=maxschwinghammer&hide_border=true#gh-light-mode-only)](https://github.com/maxschwinghammer#gh-light-mode-only)
+[![Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=maxschwinghammer&bg_color=ffffff00&hide_border=true&theme=dark&layout=compact#gh-dark-mode-only)](https://github.com/maxschwinghammer#gh-dark-mode-only)
+[![Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=maxschwinghammer&bg_color=ffffff00&hide_border=true&theme=default&layout=compact#gh-light-mode-only)](https://github.com/maxschwinghammer#gh-light-mode-only)
 
-[![Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=maxschwinghammer&hide_border=true&theme=dark&layout=compact#gh-dark-mode-only)](https://github.com/maxschwinghammer#gh-dark-mode-only)
-[![Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=maxschwinghammer&hide_border=true&theme=default&layout=compact#gh-light-mode-only)](https://github.com/maxschwinghammer#gh-light-mode-only)
+[![Max GitHub stats-Dark](https://github-readme-streak-stats.herokuapp.com/?user=maxschwinghammer&background=ffffff00&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/maxschwinghammer#gh-dark-mode-only)
+[![Max GitHub stats-Light](https://github-readme-streak-stats.herokuapp.com/?user=maxschwinghammer&background=ffffff00&hide_border=true#gh-light-mode-only)](https://github.com/maxschwinghammer#gh-light-mode-only)
 
 ### Connect with me:
 <p align="left">
