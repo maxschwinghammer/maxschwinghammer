@@ -32,14 +32,9 @@
 
 ### Connect with me:
 <p align="center">
-  <div style="display: inline-flex; align-items: center;">
-  <picture>
-    <source srcset="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" media="(prefers-color-scheme: dark)"/>
-    <source srcset="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" media="(prefers-color-scheme: light)"/>
-    <a href="https://x.com/max_schwingh" target="blank">
-      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" width=30 height=30 />
-    </a>
-  </picture>
+  <a href="https://twitter.com/max_schwingh" target="blank">
+      <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="max_schwingh" height="30" width="40" />
+  </a>
   <a href="https://linkedin.com/in/max-schwinghammer" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="max-schwinghammer" height="30" width="40" />
   </a>
@@ -48,5 +43,3 @@
   </a>
   </div>
 </p>
-
-
