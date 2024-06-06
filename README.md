@@ -35,7 +35,7 @@
   <div style="display: inline-flex; align-items: center;">
   <picture>
     <source srcset="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" media="(prefers-color-scheme: dark)"/>
-    <source srcset="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+    <source srcset="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: light)"/>
     <a href="https://x.com/max_schwingh" target="blank">
       <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" width=30 height=30 />
     </a>
