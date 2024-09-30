@@ -3,7 +3,6 @@
 <img src="https://komarev.com/ghpvc/?username=maxschwinghammer&style=flat-square&color=blue" alt=""/>
 
 - 🌍 Living in Karlsruhe, Germany
-- 👨‍💻 I’m currently working on [DHBWhub](https://github.com/SE-TINF22B6/DHBWhub) and [Compiler construction](https://github.com/maxschwinghammer/compiler-design-lecture-project-TINF22B6)
 - 📫 How to reach me: maxschwinghammer@outlook.com
 </a>
 
