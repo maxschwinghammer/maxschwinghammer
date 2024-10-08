@@ -3,6 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=maxschwinghammer&style=flat-square&color=blue" alt=""/>
 
 - 🌍 Living in Karlsruhe, Germany
+- 👨‍💻 I’m currently working on [FreshKeeper](https://github.com/maxschwinghammer/FreshKeeper)
 - 📫 How to reach me: maxschwinghammer@outlook.com
 </a>
 
