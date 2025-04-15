@@ -23,10 +23,7 @@
 
 ### 📊 Stats:
 [![Max GitHub Readme Stats - Dark](https://github-readme-stats.vercel.app/api?username=maxschwinghammer&bg_color=ffffff00&hide_border=true&show_icons=true&locale=en&theme=dark#gh-dark-mode-only)](https://github.com/maxschwinghammer#gh-dark-mode-only)
-[![Max GitHub Streak Stats - Dark](https://github-readme-streak-stats.herokuapp.com/?user=maxschwinghammer&background=ffffff00&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/maxschwinghammer#gh-dark-mode-only)
-
 [![Max GitHub Readme Stats - Light](https://github-readme-stats.vercel.app/api?username=maxschwinghammer&bg_color=ffffff00&hide_border=true&show_icons=true&locale=en#gh-light-mode-only)](https://github.com/maxschwinghammer#gh-light-mode-only)
-[![Max GitHub Streak Stats - Light](https://github-readme-streak-stats.herokuapp.com/?user=maxschwinghammer&background=ffffff00&hide_border=true#gh-light-mode-only)](https://github.com/maxschwinghammer#gh-light-mode-only)
 
 ### Connect with me:
 <p align="left">
