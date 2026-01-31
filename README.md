@@ -2,7 +2,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=maxschwinghammer&style=flat-square&color=blue" alt=""/>
 
-- 🌍 Living in Remscheid, Germany
 - 👨‍💻 I’m currently working on [FreshKeeper](https://github.com/FreshKeeper/AndroidApp)
 - 📫 How to reach me: maxschwinghammer@outlook.com
 </a>
