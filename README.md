@@ -13,9 +13,9 @@
 </div>
 
 ### 📊 Stats:
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=maxschwinghammer&show_icons=true&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=maxschwinghammer&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maxschwinghammer&layout=compact&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=maxschwinghammer&show_icons=true&theme=github_dark) </br>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=maxschwinghammer&theme=github_dark) </br>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maxschwinghammer&layout=compact&theme=github_dark) 
 
 ### 📫 Connect with me:
 maxschwinghammer@outlook.com
